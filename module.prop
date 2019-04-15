@@ -1,0 +1,7 @@
+id=penguin-daemon
+name=Penguin Daemon
+version=v1.0
+versionCode=1
+author=KMODs
+description=Inject into process by replace libmemtrack.so to load modules from Penguin Manager.
+minMagisk=17000
